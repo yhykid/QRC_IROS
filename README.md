@@ -1,5 +1,4 @@
-## Competition Records
-https://github.com/user-attachments/assets/55d6a8bf-ef69-44a2-9eaf-7f0b986a5d06
+![12-10-1](https://github.com/user-attachments/assets/c0d93939-f46f-4426-af62-79f680ef4ca3)
 
 
 ## Manuls
@@ -34,5 +33,8 @@ https://github.com/user-attachments/assets/55d6a8bf-ef69-44a2-9eaf-7f0b986a5d06
     - Currently, the robot will not actually move its motors. You may see the ros topics. If you want to let the robot move, you can add the argument `--nodryrun` in the command line, but **be careful**.
     - User can switch the finite state machine with the buttons and control the commanded velocity with the joystick.
 
+
+## Competition Records
+https://github.com/user-attachments/assets/55d6a8bf-ef69-44a2-9eaf-7f0b986a5d06
 
 
