@@ -34,7 +34,5 @@
     - User can switch the finite state machine with the buttons and control the commanded velocity with the joystick.
 
 
-## Competition Records
-https://github.com/user-attachments/assets/55d6a8bf-ef69-44a2-9eaf-7f0b986a5d06
 
 
