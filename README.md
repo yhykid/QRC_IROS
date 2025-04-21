@@ -1,6 +1,4 @@
 ![12-10-1](https://github.com/user-attachments/assets/c0d93939-f46f-4426-af62-79f680ef4ca3)
-
-
 ## Manuls
 1. The Code is running on the Jetson Orin on GO2 and is controlled with the unitree joystick.
 2. Install ROS2 foxy and the [unitree ros package for Go2](https://support.unitree.com/home/en/developer/ROS2_service).
